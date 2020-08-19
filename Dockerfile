@@ -1,4 +1,4 @@
-FROM archlinux/base:latest
+FROM archlinux:latest
 
 LABEL maintainer="Robert de Bock <robert@meinit.nl>"
 
