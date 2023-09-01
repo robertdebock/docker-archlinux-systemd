@@ -1,7 +1,7 @@
 FROM archlinux:latest
 
 LABEL maintainer="Robert de Bock <robert@meinit.nl>"
-LABEL build_date="2023-06-13"
+LABEL build_date="2023-09-01"
 
 ENV container docker
 
